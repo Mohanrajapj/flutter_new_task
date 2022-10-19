@@ -20,4 +20,5 @@ class ImageResource {
   static String time = "assets/time.png";
   static String yellowTag = "assets/yellowTag.png";
   static String signupBg = "assets/signupBg.png";
+  static String comedy = "assets/comedy.png";
 }
